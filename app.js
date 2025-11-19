@@ -7,7 +7,7 @@
         'Senha incorreta!',                                       // 1
         'amc_auth',                                               // 2 (chave no localStorage)
         'ok',                                                     // 3 (valor de flag)
-        '/private/A71C9F3EA19F213.html',                          // 4 (arquivo protegido)
+        '/AMC_PMPA/private/A71C9F3EA19F213.html',                          // 4 (arquivo protegido)
         'SHA-256'                                                 // 5 (algoritmo hash)
     ];
 
@@ -63,4 +63,5 @@
 
     _main();
 })();
+
 
